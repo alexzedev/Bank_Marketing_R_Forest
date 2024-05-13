@@ -1,6 +1,7 @@
 # Bank_Marketing_R_Forest
 Program which predicts the data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
+![alt text](https://github.com/alexzedev/Bank_Marketing_R_Forest/blob/main/bank_marketing_screen.png?raw=true)
 
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
 
